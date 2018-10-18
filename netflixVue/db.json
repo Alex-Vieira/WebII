@@ -1,0 +1,324 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "titulo": "Terror",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "It: A Coisa",
+          "trailer": "https://www.youtube.com/embed/dD264ZjfKlk",
+          "imagem": "https://i1.wp.com/cheirodelivro.com/wp-content/uploads/2017/09/it.jpg?fit=1280%2C720",
+          "sinopse": "Crianças começam a desaparecer na cidade de Derry, no Maine, e alguns amigos do mesmo bairro se unem para enfrentar Pennywise, um palhaço malvado cuja história de assassinato e violência remonta a séculos."
+        },
+        {
+          "id": 2,
+          "titulo": "Jogos Mortais 8",
+          "trailer": "https://www.youtube.com/embed/ogkm9co9IM4",
+          "imagem": "https://cinepop.com.br/wp-content/uploads/2017/10/jigsaw-poster-e1509036901485-750x380.jpg",
+          "sinopse": "Após uma série de assassinatos, todas as pistas levam a John Kramer, assassino mais conhecido como Jigsaw. À medida que a investigação avança, os policiais percebem que estão perseguindo o fantasma de um homem morto há mais de uma década."
+        },
+        {
+          "id": 3,
+          "titulo": "A Maldição Da Casa Winchester",
+          "trailer": "https://www.youtube.com/embed/HWOL2X0CJ9o",
+          "imagem": "http://portal.tododia.uol.com.br/_midias/jpg/2018/03/08/winchester2a-799282.jpg",
+          "sinopse": "Sarah Winchester é herdeira de uma empresa de armas de fogo e acredita ser assombrada por almas que foram mortas pelo rifle criado por sua família, os Winchester. Após as repentinas mortes do marido e filho, ela decide construir uma mansão para afastar os espíritos. Quando o psiquiatra Eric Price parte para avaliar o estado psicológico de Sarah, ele percebe que talvez a obsessão dela não seja tão insana assim."
+        },
+        {
+          "id": 4,
+          "titulo": "A Freira",
+          "trailer": "https://www.youtube.com/embed/4V44ew-laC4",
+          "imagem": "http://br.web.img3.acsta.net/newsv7/18/06/13/14/36/5946581.jpg",
+          "sinopse": "Presa em um convento na Romênia, uma freira comete suicídio. Para investigar o caso, o Vaticano envia um padre assombrado e uma noviça prestes a se tornar freira. Arriscando suas vidas, a fé e até suas almas, os dois descobrem um segredo profano e se confrontam com uma força do mal que toma a forma de uma freira demoníaca e transforma o convento em um campo de batalha."
+        },
+        {
+          "id": 5,
+          "titulo": "Os Estranhos – Caçada Noturna",
+          "trailer": "https://www.youtube.com/embed/i-uQYvj13j8",
+          "imagem": "https://www.portaldoholanda.com.br/sites/default/files/imagecache/portal2014_fotonoticiagrande/portaldoholanda-815659-imagem-foto-amazonas.jpg",
+          "sinopse": "Uma família recebe a terrível visita de três psicopatas, que transformam suas vidas em um inferno."
+        },
+        {
+          "id": 6,
+          "titulo": "Hereditário",
+          "trailer": "https://www.youtube.com/embed/aVqszEgRYsc",
+          "imagem": "https://cinepop.com.br/wp-content/uploads/2018/06/hereditario_4-750x380.jpg",
+          "sinopse": "Após a morte da reclusa avó, a família Graham começa a desvendar algumas coisas. Mesmo após a partida da matriarca, ela permanece como se fosse uma sombra sobre a família, especialmente sobre a solitária neta adolescente, Charlie, por quem ela sempre manteve uma fascinação não usual. Com um crescente terror tomando conta da casa, a família explora lugares mais escuros para escapar do infeliz destino que herdaram."
+        },
+        {
+          "id": 7,
+          "titulo": "A Primeira Noite De Crime",
+          "trailer": "https://www.youtube.com/embed/XiHZ9u1GZhw",
+          "imagem": "http://www.arrobanerd.com.br/wp-content/uploads/2018/04/anoitedocrime-Copia-800x445.jpg",
+          "sinopse": "A franquia de sucesso “Uma Noite De Crime” decidiu contar a origem dessa noite sangrenta em que todos os crimes são permitidos. A história gira em torno da Doutora (Marisa Tomei) que criou o projeto e uma ativista (Lex Scott Davis) que está tentando evitar a noite."
+        },
+        {
+          "id": 8,
+          "titulo": "Slender Man: Pesadelo Sem Rosto",
+          "trailer": "https://www.youtube.com/embed/lz1LYJj92EE",
+          "imagem": "https://nerdbreak.com.br/wp-content/uploads/2018/01/slender-man-001-C%C3%B3pia.jpg",
+          "sinopse": "O personagem conhecido dessa história é o Slender Man (Javier Botet), uma criatura esguia e sem face que vive nas matas e sequestra crianças. O filme irá promete contar exatamente isso e mostrar o que ele obriga os pequenos a fazer."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "titulo": "Comédia",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "Família do Bagulho",
+          "trailer": "https://www.youtube.com/embed/uOuNeBIiYZE",
+          "imagem": "https://smkbd.com/wp-content/uploads/2013/07/familia-bagulho-smkbd.jpg",
+          "sinopse": "Um traficante é forçado por seu chefe a ir ao México pegar uma carga de maconha. A fim de melhorar suas chances de passar pela fronteira, David pede a uma stripper e dois adolescentes locais para acompanhá-lo e fingir que são uma família em férias."
+        },
+        {
+          "id": 2,
+          "titulo": "O pacote",
+          "trailer": "https://www.youtube.com/embed/fHg8z7dH_4k",
+          "imagem": "https://cinepop.com.br/wp-content/uploads/2018/07/the-package-1.jpg",
+          "sinopse": "The Package é um filme americano de comédia negra dirigido por Jake Szymanski, com roteiro de Kevin Burrows e Matt Mider. O filme é estrelado por Daniel Doheny, Sadie Calvano, Geraldine Viswanathan, Lucas Spencer Roberts e Eduardo Franco. O filme foi lançado em 10 de agosto de 2018, pela Netflix."
+        },
+        {
+          "id": 3,
+          "titulo": "Superbad - É Hoje",
+          "trailer": "https://www.youtube.com/embed/2eNn6jtqM20",
+          "imagem": "https://is2-ssl.mzstatic.com/image/thumb/Video42/v4/4f/4d/90/4f4d907f-4efe-1bae-4542-3a9a3f91f877/mzm.ewayuvlr.jpg/1200x600bf.jpg",
+          "sinopse": "Os estudantes adolescentes Seth e Evan têm grandes esperanças para uma festa de formatura. Os adolescentes co-dependentes pretendem beber e conquistar garotas para que eles possam se tornar parte da multidão popular da escola, mas a ansiedade de separação e dois policiais entediados complicam a auto-missão proclamada dos amigos."
+        },
+        {
+          "id": 4,
+          "titulo": "Festa da Salsicha",
+          "trailer": "https://www.youtube.com/embed/FNP0N_QcfFU",
+          "imagem": "https://lasueur.com/wp-content/uploads/2017/04/Sausage-Party-Concours-La-Sueur.png",
+          "sinopse": "Frank, a salsicha, e seus amigos tentam evitar serem comprados e comidos por humanos em um supermercado."
+        },
+        {
+          "id": 5,
+          "titulo": "Sexo, Drogas e Jingle Bells",
+          "trailer": "https://www.youtube.com/embed/DTwmB-39cQw",
+          "imagem": "http://www.papodeblogueiro.com/wp-content/uploads/2015/11/trailer-sexo-drogas-e-jingle-bells-e-a-vespera-de-natal-mais-louca-da-historia-do-cinema.jpg",
+          "sinopse": "Há dez anos, os amigos Ethan, Isaac e Chris mantêm a tradição de sair na véspera do Natal e aprontar as maiores loucuras. Com as novas responsabilidades da vida adulta, eles começam a se preocupar com o possível fim de sua era como transgressores. Na tentativa de manter sua reputação, eles decidem escolher a melhor de todas as festas e extrapolar seus limites."
+        },
+        {
+          "id": 6,
+          "titulo": "Vizinhos",
+          "trailer": "https://www.youtube.com/embed/JnR6BkxCntk",
+          "imagem": "http://rd1.ig.com.br/wp-content/uploads/2014/06/vizinhos.jpg",
+          "sinopse": "Um jovem casal se muda para um bairro aparentemente tranquilo com o filho recém-nascido. Mas, ao contrário da paz que esperavam, se deparam com Teddy Sanders, um vizinho boêmio, que lidera os jovens das redondezas nas confusões aprontadas por eles."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "titulo": "Animação",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "Detona Ralph",
+          "trailer": "https://www.youtube.com/embed/MsoG4LnjhL0",
+          "imagem": "https://img.elo7.com.br/product/zoom/1D45800/adesivo-de-parede-detona-ralph-es-100x157cm-adesivo-decorativo.jpg",
+          "sinopse": "Ralph está cansado de ser desprezado no seu próprio jogo de fliperama. Para ganhar a atenção do herói Felix e todos os outros personagens, o vilão tem um plano e sai em busca de uma medalha, com a intenção de provar o seu valor."
+        },
+        {
+          "id": 2,
+          "titulo": "Os Incríveis 2",
+          "trailer": "https://www.youtube.com/embed/8NURuV5GmPY",
+          "imagem": "https://cinepop.com.br/wp-content/uploads/2018/07/osincr%C3%ADevis2-750x380.jpg",
+          "sinopse": "A Mulher Elástica entra em ação para salvar o dia, enquanto o Sr. Incrível enfrenta seu maior desafio até agora: cuidar dos problemas de seus três filhos."
+        },
+        {
+          "id": 3,
+          "titulo": "Dragon Ball Super: Broly",
+          "trailer": "https://www.youtube.com/embed/_K91eeP25NA",
+          "imagem": "https://sociorocketnewsen.files.wordpress.com/2018/07/db-1.jpg?w=640",
+          "sinopse": "Apesar da Terra estar em um período de calmaria, Goku se recusa a parar de treinar constantemente - ele quer estar pronto para quando uma nova ameaça surgir. O que ele não imaginava era que seu novo inimigo seria Broly, um poderoso super saiyajin sedento por vingança, que deseja destruir todos que encontrar pela frente."
+        },
+        {
+          "id": 4,
+          "titulo": "Toy Story 4",
+          "trailer": "https://www.youtube.com/embed/Bj4gS1JQzjk",
+          "imagem": "https://observatoriodocinema.elav.tmp.br/wp-content/uploads/2015/08/toy-story-4.jpg",
+          "sinopse": "Toy Story 4 será um futuro filme de animação estadunidense, produzido pelos estúdios Pixar do gênero de aventura e comédia romântica em 3D de 2019, sendo o quarto filme da franquia Toy Story."
+        },
+        {
+          "id": 5,
+          "titulo": "Hotel Transilvânia 3: Férias Monstruosas",
+          "trailer": "https://www.youtube.com/embed/ADjK_GiY9EE",
+          "imagem": "http://www.osul.com.br/wp-content/uploads/2018/07/TRANSI.jpg",
+          "sinopse": "Solitário, infeliz e buscando um novo amor na internet, Dracula é surpreendido com um presente da querida filha: férias em um cruzeiro. Lá, ele se encanta pela comandante, que, por sua vez, esconde um segredo nada amigável."
+        },
+        {
+          "id": 6,
+          "titulo": "O Poderoso Chefinho",
+          "trailer": "https://www.youtube.com/embed/QYYsJkUl7TY",
+          "imagem": "https://img.elo7.com.br/product/zoom/19AFA5D/painel-festa-2x1m-o-poderoso-chefinho-infantil.jpg",
+          "sinopse": "Um bebê falante que usa terno e carrega uma maleta misteriosa une forças com seu irmão mais velho invejoso para impedir que um inescrupuloso CEO acabe com o amor no mundo. A missão é salvar os pais, impedir a catástrofe e provar que o mais intenso dos sentimentos é uma poderosa força."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "titulo": "Séries",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "Lúcifer",
+          "trailer": "https://www.youtube.com/embed/EdlSIh9ZYQs",
+          "imagem": "http://br.web.img2.acsta.net/newsv7/18/06/20/15/44/1584399.jpg",
+          "sinopse": "Lucifer está entediado e infeliz como o Senhor do Inferno e decide tirar férias em Los Angeles, onde vira dono de uma casa noturna com ajuda de sua serva Mazikeen."
+        },
+        {
+          "id": 2,
+          "titulo": "Vikings",
+          "trailer": "https://www.youtube.com/embed/f5av6OqFwz0",
+          "imagem": "https://cdn-images-1.medium.com/max/1280/1*nNNopRfWmAGTpRr-hoM1hg.jpeg",
+          "sinopse": "A série acompanha a saga dos navegadores nórdicos que exploram - e conquistam - novos territórios nos tempos medievais."
+        },
+        {
+          "id": 3,
+          "titulo": "Blindspot",
+          "trailer": "https://www.youtube.com/embed/biSRZM1NLDs",
+          "imagem": "http://4.bp.blogspot.com/-gQ6j6VkLhLE/VVHS-tMCcxI/AAAAAAAA7Wc/kxXLn2j7JfY/s1600/blinspot.jpg",
+          "sinopse": "Misteriosa mulher é encontrada na Times Square, sem quaisquer lembranças de quem ela é e de como chegou ali. As únicas pistas que ela possui são as tatuagens que cobrem todo o seu corpo. Um agente do FBI passa a ajudá-la enquanto buscam a verdade."
+        },
+        {
+          "id": 4,
+          "titulo": "La casa de papel",
+          "trailer": "https://www.youtube.com/embed/yKXYXgo7a3I",
+          "imagem": "https://almde50tons.files.wordpress.com/2018/03/casa-e1516976904459-820x380.png",
+          "sinopse": "Oito ladrões se trancam com reféns na Casa da Moeda da Espanha. Seu líder manipula a polícia para realizar um plano. Será o maior roubo da história, ou uma missão em vão?"
+        },
+        {
+          "id": 5,
+          "titulo": "The Walking Dead",
+          "trailer": "https://www.youtube.com/embed/R1v0uFms68U",
+          "imagem": "https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2015/06/The-Walking-Dead-Season-5-date-710x400.jpg",
+          "sinopse": "Um apocalipse provoca uma infestação de zumbis na cidade de Cynthiana, em Kentucky, nos Estados Unidos, e o oficial de polícia Rick Grimes (Andrew Lincoln) descobre que os mortos-vivos estão se propagando progressivamente."
+        },
+        {
+          "id": 6,
+          "titulo": "Game of Thrones",
+          "trailer": "https://www.youtube.com/embed/aLSBKCNUrgQ",
+          "imagem": "http://static1.purebreak.com.br/articles/8/27/34/8/@/138942-serie-game-of-thrones-servira-de-inspi-opengraph_1200-1.jpg",
+          "sinopse": "Situada nos continentes fictícios de Westeros e Essos, a série centra-se no Trono de Ferro dos Sete Reinos e segue um enredo de alianças e conflitos entre as famílias nobres dinásticas, seja competindo para reivindicar o trono ou lutando pela independência do trono."
+        },
+        {
+          "id": 7,
+          "titulo": "The Flash",
+          "trailer": "https://www.youtube.com/embed/Yj0l7iGKh8g",
+          "imagem": "https://www.tvepipoca.com/wp-content/uploads/2018/01/the-flash.jpg",
+          "sinopse": "Barry Allen (Grant Gustin) era um funcionário da Polícia Científica que, ao sofrer um acidente, foi banhado por produtos químicos em seu laboratório e, em seguida, atingido por um raio. Foi a partir disso que ele começou a ser capaz de canalizar os poderes vindos do ''Campo de Velocidade'', e se locomover em altíssimas velocidades. Usando uma máscara e um uniforme vermelho, ele começa a usar suas habilidades para patrulhar Central City com a ajuda dos cientistas da S.T.A.R. Labs, e detém vilões ao mesmo tempo em que procura descobrir quem foi o assassino de sua mãe."
+        },
+        {
+          "id": 8,
+          "titulo": "Arrow",
+          "trailer": "https://www.youtube.com/embed/XQS7JkQmlx8",
+          "imagem": "https://www.tvepipoca.com/wp-content/uploads/2017/11/arrow-606.jpg",
+          "sinopse": "Playboy, milionário e mulherengo, Oliver Queen (Stephen Amell) está presumivelmente morto há 5 anos, quando um acidente de iate causou o desaparecimento dele, de seu pai, Robert (Jamey Sheridan), e Sara Lance, irmã de sua então namorada Laurel (Katie Cassidy). Mas Ollie sobreviveu e, preso em uma ilha, ele aprendeu a lutar por sua vida. De volta à civilização em Starling City, ele é um homem mudado e está decidido a honrar a memória do pai e livrar a cidade da corrupção. Disfarçado, ele usa as habilidades que aprendeu durante seu tempo de reclusão para isso, e ao mesmo tempo precisa esconder sua nova identidade da mãe, Moira (Susanna Thompson), da irmã, Thea (Willa Holland) e dos amigos."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "titulo": "Super Heróis",
+      "filmes": [
+        {
+          "id": 1,
+          "titulo": "Doutor Estranho",
+          "trailer": "https://www.youtube.com/embed/YUfWrIcX4zw",
+          "imagem": "http://br.web.img2.acsta.net/pictures/17/03/29/07/56/333222.jpg",
+          "sinopse": "Doutor Stephen Vincent Strange ou Doutor Estranho é um super-herói fictício muito poderoso que aparece nos quadrinhos americanos publicados pela Marvel Comics. Criado pelo desenhista Steve Ditko e pelo roteirista Stan Lee, o personagem apareceu pela primeira vez em Strange Tales #110."
+        },
+        {
+          "id": 2,
+          "titulo": "Vingadores: Guerra Infinita",
+          "trailer": "https://www.youtube.com/embed/t_ULBP6V9bg",
+          "imagem": "http://assets.papelpop.com/wp-content/uploads/2018/04/guerrinfinita.jpg",
+          "sinopse": "Homem de Ferro, Thor, Hulk e os Vingadores se unem para combater seu inimigo mais poderoso, o maligno Thanos. Em uma missão para coletar todas as seis pedras infinitas, Thanos planeja usá-las para infligir sua vontade maléfica sobre a realidade."
+        },
+        {
+          "id": 3,
+          "titulo": "Capitã Marvel",
+          "trailer": "https://www.youtube.com/embed/JhY6Yy4wtb4",
+          "imagem": "https://cinepop.com.br/wp-content/uploads/2016/06/Brie-Larson-Captain-Marvel-2-750x380.jpg",
+          "sinopse": "Captain Marvel é um futuro filme americano de super-herói de 2019, baseado na personagem de mesmo nome, da Marvel Comics, produzido pela Marvel Studios e distribuído pela Walt Disney Studios Motion Pictures, sendo o vigésimo primeiro filme do Universo Cinematográfico Marvel."
+        },
+        {
+          "id": 4,
+          "titulo": "Aquaman",
+          "trailer": "https://www.youtube.com/embed/90bG43JcwRE",
+          "imagem": "https://static.vix.com/pt/sites/default/files/styles/large/public/f/filme-aquaman-jason-momoa-0717-1400x800.jpg?itok=sho8aiZl",
+          "sinopse": "Aquaman aprende que não pode fazer tudo sozinho quando começa uma jornada com Mera em busca de um algo muito importante para o futuro de Atlantis."
+        },
+        {
+          "id": 5,
+          "titulo": "The Flash",
+          "trailer": "https://www.youtube.com/embed/fZqki9hSQbI",
+          "imagem": "https://entreterse.com.br/wp-content/uploads/2018/10/the-flash-filme.jpg",
+          "sinopse": "The Flash é um futuro filme americano com base no personagem homônimo da DC Comics, dirigido por John Francis Daley e Jonathan Goldenstein. Flash ainda não tem uma data de lançamento marcada, porém seu lançamento está previsto para o primeiro semestre de 2020."
+        },
+        {
+          "id": 6,
+          "titulo": "Deadpool 2",
+          "trailer": "https://www.youtube.com/embed/1P9OzWX6nzE",
+          "imagem": "https://abrilexame.files.wordpress.com/2017/12/deadpool.jpg",
+          "sinopse": "O supersoldado Cable vem do futuro com a missão de assassinar o jovem mutante Russel e o mercenário Deadpool precisa aprender o que é ser herói de verdade para salvá-lo. Para isso, ele recruta seu velho amigo Colossus e forma o novo grupo X-Force, sempre com o apoio do fiel escudeiro Dopinder."
+        },
+        {
+          "id": 7,
+          "titulo": "Venom",
+          "trailer": "https://www.youtube.com/embed/1eWpCICE610",
+          "imagem": "http://rocknoize.com.br/wp-content/uploads/2018/09/venom.jpg",
+          "sinopse": "Venom é um filme de ação, ficção científica, suspense e aventura estadunidense de 2018, baseado no personagem da Marvel Comics de mesmo nome, dirigido por Ruben Fleischer e escrito por Scott Rosenberg, Jeff Pinkner, Kelly Marcel e Will Beall. Será o primeiro título no Universo Marvel da Sony."
+        },
+        {
+          "id": 8,
+          "titulo": "Mulher Maravilha",
+          "trailer": "https://www.youtube.com/embed/bldAkEUANWA",
+          "imagem": "https://gds.portal5g-media.com/contentFiles/image/2016/11/FEA/principal/53054_w840h0_1478195217maxresdefault.jpg",
+          "sinopse": "Treinada desde cedo para ser uma guerreira imbatível, Diana Prince nunca saiu da paradisíaca ilha em que é reconhecida como princesa das Amazonas. Quando o piloto Steve Trevor se acidenta e cai em uma praia do local, ela descobre que uma guerra sem precedentes está se espalhando pelo mundo e decide deixar seu lar certa de que pode parar o conflito. Lutando para acabar com todas as lutas, Diana percebe o alcance de seus poderes e sua verdadeira missão na Terra."
+        }
+      ]
+    }
+  ],
+  "usuario": [
+    {
+      "nome": "Admin",
+      "senha": "123",
+      "id": 1
+    },
+    {
+      "nome": "Alex vieira",
+      "senha": "123",
+      "id": 2
+    },
+    {
+      "nome": "a",
+      "senha": "1",
+      "id": 7
+    },
+    {
+      "nome": "Cleiton22",
+      "senha": "222222",
+      "id": 8
+    },
+    {
+      "nome": "artur",
+      "senha": "1",
+      "id": 9
+    },
+    {
+      "nome": "ygor",
+      "senha": "123",
+      "id": 10
+    }
+  ],
+  "login": [
+    {
+      "nome": "",
+      "id": 1
+    }
+  ]
+}
