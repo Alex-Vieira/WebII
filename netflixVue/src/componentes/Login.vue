@@ -68,9 +68,7 @@
           var user = response.body;
 
           for (var i in user) {
-            if (this.usuario.nome === user[i].nome) {
-
-              if (this.usuario.senha === user[i].senha) {
+            if ((this.usuario.nome === user[i].nome &&this.usuario.senha === user[i].senha)) {
                 window.location.href = "#/home"
                 this.logado = true
               } else {
@@ -78,7 +76,7 @@
                 window.location.href = "#/"
               }
             }
-          }
+
         });
       }
     }
